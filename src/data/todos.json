@@ -1,0 +1,200 @@
+{
+    "panolar": [
+      {
+        "isim": "Platform Lansmani",
+        "sutunlar": [
+          {
+            "isim": "Yapılacak",
+            "gorevler": [
+              {
+                "baslik": "Kayıt akışı için kullanıcı arayüzü oluştur",
+                "aciklama": "",
+                "durum": "Yapılacak"
+              },
+              {
+                "baslik": "Arama için kullanıcı arayüzü oluştur",
+                "aciklama": "",
+                "durum": "Yapılacak"
+              },
+              {
+                "baslik": "Ayarlar kullanıcı arayüzü oluştur",
+                "aciklama": "",
+                "durum": "Yapılacak"
+              },
+              {
+                "baslik": "Tüm önemli kullanıcı yolculuklarını QA ve test et",
+                "aciklama": "Sürüm bir hazır olduğunda, herhangi bir büyük boşluğu belirlemek için hem dahili hem de harici olarak titizlikle test etmemiz gerekiyor.",
+                "durum": "Yapılacak"
+              }
+            ]
+          },
+          {
+            "isim": "Yapılıyor",
+            "gorevler": [
+              {
+                "baslik": "Ayarlar ve arama sayfalarını tasarla",
+                "aciklama": "",
+                "durum": "Yapılıyor"
+              },
+              {
+                "baslik": "Hesap yönetimi uç noktaları ekle",
+                "aciklama": "",
+                "durum": "Yapılıyor"
+              },
+              {
+                "baslik": "Kayıt akışını tasarla",
+                "aciklama": "",
+                "durum": "Yapılıyor"
+              },
+              {
+                "baslik": "Arama uç noktaları ekle",
+                "aciklama": "",
+                "durum": "Yapılıyor"
+              },
+              {
+                "baslik": "Kimlik doğrulama uç noktaları ekle",
+                "aciklama": "",
+                "durum": "Yapılıyor"
+              },
+              {
+                "baslik": "Çeşitli rakiplerin fiyat noktalarını araştır ve farklı iş modellerini dene",
+                "aciklama": "",
+                "durum": "Yapılıyor"
+              }
+            ]
+          },
+          {
+            "isim": "Yapıldı",
+            "gorevler": [
+              {
+                "baslik": "5 adet tel kafes testi gerçekleştir",
+                "aciklama": "",
+                "durum": "Tamamlandı"
+              },
+              {
+                "baslik": "Tel kafes prototipi oluştur",
+                "aciklama": "",
+                "durum": "Tamamlandı"
+              },
+              {
+                "baslik": "Kullanılabilirlik testi sonuçlarını gözden geçir ve yinele",
+                "aciklama": "",
+                "durum": "Tamamlandı"
+              },
+              {
+                "baslik": "Potansiyel müşterilerle 10 adet kullanılabilirlik testi yap",
+                "aciklama": "",
+                "durum": "Tamamlandı"
+              },
+              {
+                "baslik": "Pazar keşfi",
+                "aciklama": "",
+                "durum": "Tamamlandı"
+              },
+              {
+                "baslik": "Rakip analizi",
+                "aciklama": "",
+                "durum": "Tamamlandı"
+              },
+              {
+                "baslik": "Pazar araştırması",
+                "aciklama": "",
+                "durum": "Tamamlandı"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "isim": "Pazarlama Plani",
+        "sutunlar": [
+          {
+            "isim": "Yapılacaklar",
+            "gorevler": [
+              {
+                "baslik": "Product Hunt lansmanını planla",
+                "aciklama": "",
+                "durum": "Yapılacaklar",
+                "alt_gorevler": [
+                  {
+                    "baslik": "Avcı bul",
+                    "tamamlandı": false
+                  },
+                  {
+                    "baslik": "Varlık topla",
+                    "tamamlandı": false
+                  },
+                  {
+                    "baslik": "Ürün sayfası taslağı",
+                    "tamamlandı": false
+                  },
+                  {
+                    "baslik": "Müşterileri bilgilendir",
+                    "tamamlandı": false
+                  },
+                  {
+                    "baslik": "Ağı bilgilendir",
+                    "tamamlandı": false
+                  },
+                  {
+                    "baslik": "Lansman!",
+                    "tamamlandı": false
+                  }
+                ]
+              },
+              {
+                "baslik": "Show HN'de paylaş",
+                "aciklama": "",
+                "durum": "",
+                "alt_gorevler": [
+                  {
+                    "baslik": "HN gönderisini taslak olarak hazırla",
+                    "tamamlandı": false
+                  },
+                  {
+                    "baslik": "Geri bildirim alın ve düzeltin",
+                    "tamamlandı": false
+                  },
+                  {
+                    "baslik": "Gönderiyi yayınla",
+                    "tamamlandı": false
+                  }
+                ]
+              },
+              {
+                "baslik": "Birden çok kanalda yayınlanacak lansman makalesi yaz",
+                "aciklama": "",
+                "durum": "",
+                "alt_gorevler": [
+                  {
+                    "baslik": "Makale yaz",
+                    "tamamlandı": false
+                  },
+                  {
+                    "baslik": "LinkedIn'de yayınla",
+                    "tamamlandı": false
+                  },
+                  {
+                    "baslik": "Inndie Hackers'ta yayınla",
+                    "tamamlandı": false
+                  },
+                  {
+                    "baslik": "Medium'da yayınla",
+                    "tamamlandı": false
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "isim": "Yapılıyor",
+            "gorevler": []
+          },
+          {
+            "isim": "Bitti",
+            "gorevler": []
+          }
+        ]
+      }
+    ]
+  }
